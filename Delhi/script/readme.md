@@ -15,7 +15,7 @@ Install dependencies in `requirements.txt`
 
 # Scrape
 
-1. Edit delhi.py and add desiered START_DATE and END_DATE
+1. Edit delhi.py and add desired START_DATE and END_DATE
 
 2. Run 
 ```python delhi.py```
