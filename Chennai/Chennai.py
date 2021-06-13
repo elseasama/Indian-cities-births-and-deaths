@@ -29,7 +29,7 @@ filename = datetime.now().strftime("%Y-%m-%d")
 #print(BD_table)
 # open the file in w mode
 # set encoding to UTF-8
-with open("daily-data/", filename +".html", "w", encoding = 'utf-8') as file:
+with open("Chennai/daily-data/", filename +".html", "w", encoding = 'utf-8') as file:
 
     # prettify the soup object and convert it into a string
     file.write(str(BD_table))
