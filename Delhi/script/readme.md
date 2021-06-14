@@ -16,6 +16,5 @@ Install dependencies in `requirements.txt`
 # Scrape
 
 1. Edit delhi.py and add desired START_DATE and END_DATE
-
-2. Run 
-```python delhi.py```
+2. Comment out the link for the municipal corporation and sex
+3.  Run ```python delhi.py```
