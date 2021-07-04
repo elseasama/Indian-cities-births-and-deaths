@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+        <style>
+/* Style the body */
+body {
+  font-family: Arial;
+  margin: 0;
+height:100%;
+}
+p {
+  text-align: center;
+  font-size: 60px;
+  margin-top: 0px;
+}
+
+/* Header/Logo Title */
+.header {
+  padding: 60px;
+  text-align: center;
+  background: #1abc9c;
+  color: white;
+  font-size: 30px;
+
+}
+
+/* Page Content 
+/*.content {padding:20px;}
+            img {
+                display:block;
+                max-height: 35%;
+                max-width: 35%;
+                margin: auto;
+            }
+            h1,p {
+                font-size:50px;
+                text-align:center;
+                margin: 0 auto 0 auto;
+            }*/
+        </style>
+<script>
+ 
+</script>
+        
+    </head>
+    <body>
+<div class="header" style="height:100%">
+<h6>The Site Is Down For Urgent Maintenance. We hope to resolve the issue as soon as possible. Your Support And Co-operation Is Highly Appreciated In This Regard.</h6>
+ <!--<<h1>	The website and website related services will not be accessible after 6 p.m. on 31 December 2020 due to year end activities .The website and website related services will be accessible before 1.05 a.m. on 01 January 2021 . Your support and co-operation is highly appreciated in this regard.</h1>-->
+<!--<h3><a href="/crsrural">Click here to access Application Official Login Page </a> </h3>
+<h3><a href="/">Click here to access www.birthdeath.odisha.gov.in Citizen Services Home Page </a> </h3>-->
+
+<h6>For any issues related to www.birthdeath.odisha.gov.in website, You can reach us on these mobile numbers.
+
+<ol>
+  <li>+91 7064224290</li>
+  <li>+91 8260016906</li>
+  <li>+91 8984523933</li>
+  <li>+91 8984289770</li>
+
+</ol> 
+</h6>
+ <!--<h1>The website and website related services will not be accessible after 5:30 p.m today due to year end activities .The website and website related services will be accessible before 1.05 a.m. tomorrow . Your support and co-operation is highly appreciated in this regard.</h1>-->
+<!--<h3>Click here<a href="/eMunicipality">Application Official login </a> </h3>-->
+<!--<h1>Owing to the impending 'Fani' cyclone, e-Municipality application is down from 2 PM to 4:30 PM ,today for preparation of disaster recovery activities. Please bear with us and Stay Safe!</h1>-->
+
+
+<!-- The Site Will Be Accessible Before 9:30 P.M. Today.-->
+
+</div>
+<!--<p id="demo"></p>-->
+<!--
+<div class="content">
+<h1>Go to Citizen <a href="/">Homepage</a></h1>
+
+  
+<h1>Go to ULB <a href="/eMunicipality">Homepage</a> </h1>
+
+<h1>Go to Helpdesk<a href="/eMunTracker">Homepage</a> </h1>
+
+<h1>Go to Accounting <a href="/accounting">Homepage</a> </h1>
+<h1>CONTACT US : emunhelpdesk@gmail.com</h1>
+</div>
+-->
+
+
+       <!-- <img src="/IMAGES/two-chicks-one-crazy.jpg" />-->
+        
+     <script>
+// Set the date we're counting down to
+var countDownDate = new Date("Jan 5, 2019 21:30:00").getTime();
+
+// Update the count down every 1 second
+var x = setInterval(function() {
+
+  // Get todays date and time
+  var now = new Date().getTime();
+    
+  // Find the distance between now and the count down date
+  var distance = countDownDate - now;
+    
+  // Time calculations for days, hours, minutes and seconds
+  var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+  var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+  var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+  var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+    
+  // Output the result in an element with id="demo"
+  document.getElementById("demo").innerHTML = days + "d " + hours + "h "
+  + minutes + "m " + seconds + "s ";
+    
+  // If the count down is over, write some text 
+  if (distance < 0) {
+    clearInterval(x);
+    document.getElementById("demo").innerHTML = "EXPIRED";
+  }
+}, 1000);
+</script>
+  
+    </body>
+</html>
