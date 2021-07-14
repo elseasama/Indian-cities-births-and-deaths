@@ -5,7 +5,7 @@
 ```Chennai.py``` Python script to grab daily birth and death data and write to a html file.
 
 ### All cause mortality by age group in Chennai from 1st January 2015 upto 30th June 2021
-![Excess deaths by age group](chennai_data/img/deathsall.png)
+![Excess deaths by age group](/img/deathsall.png)
 
 ### All cause mortality by age group and sex in Chennai from 1st January 2015 upto 30th June 2021
-![Excess deaths by age group and sex](chennai_data/img/menvsfem.png)
+![Excess deaths by age group and sex](/img/menvsfem.png)
