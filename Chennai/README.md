@@ -10,7 +10,7 @@
 
 ![Daily prediction](/Chennai/img/pred_chn_2020_2021.png)
 
-![Monthly prediction](/Chennai/img/pred_chn_2020_2021.png)
+![Monthly prediction](/Chennai/img/pred_chn_2021_2021_monthly.png)
 
 ![Trends](/Chennai/img/comp_2020_2021.png)
 
