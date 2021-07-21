@@ -5,13 +5,24 @@
 ```Chennai.py``` Python script to grab daily birth and death data and write to a html file.
 
 
+
+### Deaths prediction for 2020-2021
+
+![Daily prediction](/Chennai/img/pred_chn_2020_2021.png)
+
+![Monthly prediction](/Chennai/img/pred_chn_2020_2021.png)
+
+![Trends](/Chennai/img/comp_2020_2021.png)
+
+
+
 ### Weekly excess deaths by age groups in Chennai 2020 and 2021
 
-![Weekly excess deaths by age group](/Chennai/img/age_group_excess_weekly.png)
+![Weekly excess deaths by age group](/Chennai/img/age_group_excess_weekly_prophet.png)
 
 ### Monthly excess deaths by age groups in Chennai 2020 and 2021
 
-![Weekly excess deaths by age group](/Chennai/img/age_group_excess_month.png)
+![Weekly excess deaths by age group](/Chennai/img/age_group_excess_monthly_prophet.png)
 
 
 ### All cause mortality by age groups in Chennai from 1st January 2015 upto 30th June 2021
